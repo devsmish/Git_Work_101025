@@ -1,0 +1,1 @@
+Midnight Commander (mc) — это двухпанельный файловый менеджер для терминала (аналог Total Commander, но в Linux/Unix).
